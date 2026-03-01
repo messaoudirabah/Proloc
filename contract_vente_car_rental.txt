@@ -1,0 +1,36 @@
+CONTRAT DE SOLUTION MÉTIER - CAR RENTAL PRO V2
+__________________________________________________________________________
+
+ENTRE : NexGen MB Team (Éditeur) ET _________________________ (Agence)
+
+ARTICLE 1 : OBJET
+Ce contrat couvre la solution de gestion pour agences de location de voitures "Car Rental App V2".
+
+ARTICLE 2 : MODULES MÉTIERS
+- **Gestion de Flotte** : Suivi des véhicules (Marque, Modèle, Matricule, Kilométrage, Entretiens).
+- **Planning des Réservations** : Calendrier visuel des disponibilités.
+- **Contrats de Location** : Génération automatique des contrats (PDF), gestion des cautions.
+- **Gestion Clients** : Historique complet, liste noire, permis de conduire.
+- **Alertes** : Vidanges, Assurances, Contrôles Techniques.
+- **Analyses de Rentabilité** : ROI par véhicule.
+
+ARTICLE 3 : INVESTISSEMENT
+Prix de la solution complète : 120,000 DA (Dinars Algériens).
+
+Facilités de paiement :
+- 50% à la commande (60,000 DA).
+- 50% à la mise en production.
+
+Pourquoi ce prix ? Ce logiciel est un outil de production ("Asset Management") qui gère des actifs de haute valeur (véhicules). Il optimise le taux d'occupation et prévient les pertes (entretiens oubliés, clients à risque).
+
+ARTICLE 4 : DÉPLOIEMENT
+Installation sur serveur local ou cloud (hébergement non inclus).
+Formation du personnel : 2 demi-journées incluses.
+
+ARTICLE 5 : ÉVOLUTIONS
+ Toute demande de module spécifique (ex: tracking GPS intégré) fera l'objet d'un devis complémentaire.
+
+Fait à ___________________, le _______________
+
+LE FOURNISSEUR                                          LE CLIENT
+NexGen MB Team
